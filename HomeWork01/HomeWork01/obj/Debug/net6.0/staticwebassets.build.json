@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "2/Ph4bcTO6SNKZttfBMy7+eApYo4S1NuB7ickdH76Dw=",
+  "Source": "HomeWork01",
+  "BasePath": "_content/HomeWork01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeWork01\\wwwroot",
+      "Source": "HomeWork01",
+      "ContentRoot": "C:\\Users\\dejan\\OneDrive\\Desktop\\MVC\\CLASS02 HOME PRACTICE\\HomeWork01\\HomeWork01\\wwwroot\\",
+      "BasePath": "_content/HomeWork01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dejan\\OneDrive\\Desktop\\MVC\\CLASS02 HOME PRACTICE\\HomeWork01\\HomeWork01\\wwwroot\\app.js",
+      "SourceId": "HomeWork01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dejan\\OneDrive\\Desktop\\MVC\\CLASS02 HOME PRACTICE\\HomeWork01\\HomeWork01\\wwwroot\\",
+      "BasePath": "_content/HomeWork01",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\dejan\\OneDrive\\Desktop\\MVC\\CLASS02 HOME PRACTICE\\HomeWork01\\HomeWork01\\wwwroot\\index.html",
+      "SourceId": "HomeWork01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dejan\\OneDrive\\Desktop\\MVC\\CLASS02 HOME PRACTICE\\HomeWork01\\HomeWork01\\wwwroot\\",
+      "BasePath": "_content/HomeWork01",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

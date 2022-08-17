@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2D5271F4-FCA1-44A6-813E-ED5020F85F89}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookApi/Controllers/BooksController.cs">
+    <Files>
+      <File FileName="BookApi/Models/Book.cs" Line="1" Column="1" />
+      <File FileName="BookApi/Controllers/BooksController.cs" Line="119" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookApi" expanded="True">
+            <Node name="BookApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BooksController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
